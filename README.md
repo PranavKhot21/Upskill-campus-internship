@@ -1,1 +1,2 @@
-# Upskill-campus-internship
+# Upskill-campus-internship     
+The smart City Traffic Example ML project plans to break down and foresee traffic designs in a shrewd city climate utilizing Al strategies. By getting it and foreseeingtraffic designs, we can advance traffic stream, further develop transportation effectiveness, and improve in general metropolitan versatility. This report gives an outline of the issue explanation and talks about potential calculations that can be utilized in the undertaking
